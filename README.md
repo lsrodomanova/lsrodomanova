@@ -36,5 +36,3 @@
 ### <img width="100%" title="sql" src="images/sql.png">
 ### <img width="100%" title="poly" src="images/poly.png">
 ### <img width="100%" title="html" src="images/html.png">
-
-### Описание проекта
