@@ -28,11 +28,11 @@
 🌱Прошла курс по автоматизированному тестированию в QA.GURU.
 
 > <a target="_blank" href="https://github.com/lsrodomanova/OpenFoodFacts">Ссылка на дипломный проект</a>
- 
-> ### <img width="100%" title="guru" src="images/guru.png">
-> ### <img width="100%" title="mob" src="images/mobapp.png">
-> ### <img width="100%" title="logi" src="images/logi.png">
-> ### <img width="100%" title="shnat" src="images/shnat.png">
-> ### <img width="100%" title="sql" src="images/sql.png">
-> ### <img width="100%" title="poly" src="images/poly.png">
-> ### <img width="100%" title="html" src="images/html.png">
+###  Сертификаты:
+### <img width="100%" title="guru" src="images/guru.png">
+### <img width="100%" title="mob" src="images/mobapp.png">
+### <img width="100%" title="logi" src="images/logi.png">
+### <img width="100%" title="shnat" src="images/shnat.png">
+### <img width="100%" title="sql" src="images/sql.png">
+### <img width="100%" title="poly" src="images/poly.png">
+### <img width="100%" title="html" src="images/html.png">
