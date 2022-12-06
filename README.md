@@ -31,6 +31,7 @@
 ###  Сертификаты:
 ### <img width="100%" title="guru" src="images/guru.png">
 ### <img width="100%" title="mob" src="images/mobapp.png">
+### <img width="100%" title="mob" src="images/certificate.png">
 ### <img width="100%" title="logi" src="images/logi.png">
 ### <img width="100%" title="shnat" src="images/shnat.png">
 ### <img width="100%" title="sql" src="images/sql.png">
