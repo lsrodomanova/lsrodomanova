@@ -12,13 +12,13 @@
   <img src="images/19369327.png" title="RestAssured" alt="RestAssured" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgres" alt="Postgres" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio"  alt="Android Studio" width="40" height="40"/>&nbsp;
-  <img src="images/19369327/appium.svg" title="Appium"  alt="Appium" width="40" height="40"/>&nbsp;
+  <img src="images/appium.svg" title="Appium"  alt="Appium" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/browserstack/browserstack-original.svg" title="Browserstack" alt="Browserstack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" title="Gradle" alt="Gradle" width="40" height="40"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Allure_Report.svg" title="Allure Report" alt="Allure Report" width="40" height="40"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Allure_EE.svg" title="Allure TestOps" alt="Allure TestOps" width="40" height="40"/>&nbsp;
+  <img src="images/allure.png" title="Allure Report" alt="Allure Report" width="40" height="40"/>&nbsp;
+  <img src="images/testops.png" title="Allure TestOps" alt="Allure TestOps" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="JIRA" alt="JIRA" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" title="Telegram" alt="Telegram" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
