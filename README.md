@@ -7,7 +7,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" title="Intellij Idea" alt="Intellij Idea" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="images/43955696.png" title="Selenide" alt="Selenide" width="40" height="40"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Selenoid.svg" title="Selenoid" alt="Selenoid" width="40" height="40"/>&nbsp;
+  <img src="images/selenoidLogo.png" title="Selenoid" alt="Selenoid" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" width="40" height="40"/>&nbsp;
   <img src="images/19369327.png" title="RestAssured" alt="RestAssured" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgres" alt="Postgres" width="40" height="40"/>&nbsp; 
