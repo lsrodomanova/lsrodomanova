@@ -1,4 +1,4 @@
-### Hey 👋 I'm Liuba.</br>
+### Hey 👋 I'm Lyuba.</br>
 
 
 
@@ -28,7 +28,7 @@
 
 
 ###  Сертификаты:
-### <img width="100%" title="guru" src="images/guru.png">
+### <img width="100%" title="guru" src="images/QA Guru.png">
 ### <img width="100%" title="mob" src="images/mobapp.png">
 ### <img width="100%" title="mob" src="images/certificate.png">
 ### <img width="100%" title="logi" src="images/logi.png">
