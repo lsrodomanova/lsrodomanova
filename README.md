@@ -28,6 +28,7 @@
 
 
 ###  Сертификаты:
+### <img width="100%" title="ISTQB" src="images/ISTQB.png">
 ### <img width="100%" title="guru" src="images/QA Guru.png">
 ### <img width="100%" title="mob" src="images/mobapp.png">
 ### <img width="100%" title="mob" src="images/certificate.png">
